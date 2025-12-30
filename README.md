@@ -16,23 +16,24 @@ This project implements a **parking management system** using a variety of class
 
 ## Project Structure
 
-park (1)/
-├── bin/ # compiled class files
+```text
+park/
+├── bin/                 # compiled class files
 ├── docs/
-│ └── images/ # images used in this README
+│   └── images/          # images used in this README
 ├── src/
-│ └── park/ # Java source code
-│ ├── MaintainUser.java # manages the list of registered users
-│ ├── Manager.java # manager, super manager and management team classes (Singleton)
-│ ├── ParkingGUI.java # GUI for booking a parking space
-│ ├── ParkingRate.java # interface, decorator classes and concrete rates
-│ ├── ParkingSystemSubject.java # observer subject, observer and parking space classes
-│ ├── Parkingcharges.java # GUI for calculating deposits and handling payments
-│ ├── UserFactory.java # factory for creating different client types
-│ ├── paymentstrategy.java # strategy interface for payment methods
-│ └── … # other supporting classes (users, GUI forms, tests)
-└── RandoopTests/ # auto‑generated regression tests
-
+│   └── park/            # Java source code
+│       ├── MaintainUser.java         # manages the list of registered users
+│       ├── Manager.java              # manager, super manager and management team classes (Singleton)
+│       ├── ParkingGUI.java           # GUI for booking a parking space
+│       ├── ParkingRate.java          # interface, decorator classes and concrete rates
+│       ├── ParkingSystemSubject.java # observer subject, observer and parking space classes
+│       ├── Parkingcharges.java       # GUI for calculating deposits and handling payments
+│       ├── UserFactory.java          # factory for creating different client types
+│       ├── paymentstrategy.java      # strategy interface for payment methods
+│       └── ...                       # other supporting classes (users, GUI forms, tests)
+└── RandoopTests/        # auto-generated regression tests
+```
 
 
 ## Design Patterns
