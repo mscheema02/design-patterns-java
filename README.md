@@ -1,7 +1,8 @@
 # Parking Management System – Design Patterns in Java
 
-🎥 **Design Patterns Overview Video:** [Download/Watch](park/video/Video%20-%20Made%20with%20Clipchamp.mp4)
-
+<video controls width="800">
+  <source src="park/video/Video%20-%20Made%20with%20Clipchamp.mp4" type="video/mp4">
+</video>
 
 ## Overview
 
