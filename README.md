@@ -2,7 +2,9 @@
 
 ## Tutorial Video (Full)
 
-▶️ Watch: https://github.com/mscheema02/design-patterns-java/blob/main/park/video/Video%20-%20Made%20with%20Clipchamp.mp4
+[![Watch the demo](https://img.youtube.com/vi/xyJdjz0aw6s/hqdefault.jpg)](https://www.youtube.com/watch?v=xyJdjz0aw6s)
+
+▶️ **Demo video:** https://www.youtube.com/watch?v=xyJdjz0aw6s
 
 ## Overview
 
